@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="left">Hi 👋, I'm Damola</h1>
 <h3 align="left">A self-motivated frontend developer with a knack for clean interfaces</h3>
 
-- 🌱 I’m currently learning about building scalable applications using Typescript, Nextjs and exploring Blockchain technologies using Solidity.**
+- 🌱 I’m currently learning about building scalable applications using Typescript, Nextjs and exploring Blockchain technologies using Solidity.
 
 - 👯 I’m looking to collaborate on any project that challenges my growth
 
