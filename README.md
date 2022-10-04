@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">Hi 👋, I'm Damola</h1>
+<h1 align="left">Hi 👋, I'm Damola Olutoke </h1>
 <h3 align="left">A self-motivated frontend developer with a knack for clean interfaces</h3>
 
 - 🌱 I’m currently learning about building scalable applications using Typescript, Nextjs and exploring Blockchain technologies using Solidity.
